@@ -557,7 +557,7 @@ body.dark {
 
 /* DISTINCT PARAGRAPH COLOR FOR DARK MODE */
 body.dark p {
-    color: #e3dafc;
+    color: #f7f6fa;
     /* Soft light lavender for excellent readability */
     /* Try #f7e9d6 for a warm cream instead, if you prefer */
 }
